@@ -1,7 +1,6 @@
 # Lab 1 – Sensor Measurement Data
 
-This repository contains measurement data and MATLAB/Excel files from Lab 1, organized into two main parts: **Potentiometer** and **Magnetic Sensor** experiments.
-
+This repository contains measurement data and MATLAB/Excel files from Lab 1
 ## Repository structure
 
 ```text
